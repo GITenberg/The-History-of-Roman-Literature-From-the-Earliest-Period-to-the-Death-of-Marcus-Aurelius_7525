@@ -1,0 +1,23 @@
+_repo: The-History-of-Roman-Literature-From-the-Earliest-Period-to-the-Death-of-Marcus-Aurelius_7525
+creator:
+  author:
+    agent_name: Cruttwell, Charles Thomas
+    birthdate: 1847
+    deathdate: 1911
+    gutenberg_agent_id: '2503'
+    url: http://www.gutenberg.org/2009/agents/2503
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin literature -- History and criticism'
+title: "The History of Roman Literature\r\nFrom the Earliest Period to the Death of\
+  \ Marcus Aurelius"
+url: http://www.gutenberg.org/ebooks/7525
